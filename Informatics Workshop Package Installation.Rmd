@@ -2,7 +2,7 @@
 title: "Informatics Workshop Package Installation"
 ---
 
-Install packages need for the workshop by running the code chunk below: click the *Run* button within the chunk or place your cursor inside it and press *Ctrl+Shift+Enter*. 
+Install packages needed for the workshop by running the code chunk below: click the *Run* button within the chunk or place your cursor inside it and press *Ctrl+Shift+Enter*. 
 
 ```{r}
 
