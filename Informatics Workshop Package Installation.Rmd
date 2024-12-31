@@ -6,7 +6,7 @@ Install packages need for the workshop by running the code chunk below: click th
 
 ```{r}
 
-install.packages(c("rmarkdown", "tidyverse", "RSQLite", "devtools"))
+install.packages(c("rmarkdown", "tidyverse", "RSQLite", "devtools", "kableExtra"))
 
 library(devtools)
 
